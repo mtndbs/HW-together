@@ -1,4 +1,4 @@
-// the buttons arrey, will use grid to place them correct
+// the buttons array, will use grid to place them correct
 let numArrey = ["%",7,8,9,"#","!",4,5,6,"x","ce",1,2,3,"-","on",0,".","+/-","+","="]
 
 // the main calculator body style.
